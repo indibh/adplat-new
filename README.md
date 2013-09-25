@@ -1,0 +1,4 @@
+adplat-new
+==========
+
+test adplat
